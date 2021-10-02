@@ -6,7 +6,7 @@
 
 Hey, my name is Eduard
 
-[![Snake Animation][snake-animation]
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 <!--#
