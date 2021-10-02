@@ -1,5 +1,7 @@
 # Welcome
 
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/eduardstal/]
+
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=eduardstal&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
 Hey, my name is Eduard
