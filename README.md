@@ -6,7 +6,7 @@
 
 Hey, my name is Eduard
 
-![Animation]([snake-animation])
+![Animation]({{snake-animation}})
 
 
 <!--#
