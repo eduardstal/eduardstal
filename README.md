@@ -5,7 +5,7 @@
 
 [![Test][snake-animation]](https://stal.uk)
 
-[<img align="right" width="50%" src="[![Test][stats-url]]">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="[![Test][snake-animation]](https://stal.uk)">](https://metrics.lecoq.io/ouuan?template=classic)
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/eduardstal/
