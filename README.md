@@ -2,7 +2,7 @@
 
 Hey, I'm Eduard and this readme is still under construction
 
-<a href="https://hits.sh/github.com/eduardstal/"><img alt="Hits" src="https://hits.sh/github.com/eduardstal.svg?label=PROFILE%20VIEWS&extraCount=101000&color=e51c1c"/></a>
+<a href="https://hits.sh/github.com/eduardstal/"><img alt="Hits" src="https://hits.sh/github.com/eduardstal.svg?label=PROFILE%20VIEWS&extraCount=0&color=e51c1c"/></a>
 
 [![Test][snake-animation]](https://stal.uk)
 
